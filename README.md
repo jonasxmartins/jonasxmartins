@@ -13,8 +13,8 @@ A glimpse into the tools I have wielded. These are the few I am most proud of:
 *  **Statistical Modelling:**  Hypothesis Testing, Linear Regression
 *  **Data/Signal Processing:**  Audio Processing, Financial Data Processing, CSV Parsing 
 *  **Machine Learning:**  ANNs, CNNs for classification and regression
-*  **Hardware Programming:**  FPGAs with Verilog
-*  **Operating Systems:** ⚙️ C used for emulating several Linux features.
+*  **Hardware Programming:**  FPGAs with Verilog and C
+*  **Operating Systems:** ⚙️ C for emulating several functionalities of Linux architecture.
 *  **Computer Networks:**  Sockets, Wireshark Packet Sniffing, Analysis of protocols and IP layers. 
 
 **Beyond the Code:**
@@ -29,17 +29,21 @@ I am passionate about history, economics, and political science, and have writte
 
 Embark on a journey through my coding adventures (click the links to join the quest!):
 
-1. **[Musical Emotion Recognition Model]:** [[EmotioNet](https://github.com/jonasxmartins/EmotioNet)] - APS360 Fundamentals of Deep Learning
-2. **[File Transfer System & Text Conferencing System]:** [[computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs)] - ECE361 Computer Networks
-3. **[Data Processing & Indicator Replication]:** [[trading-indicators](https://github.com/jonasxmartins/trading-indicators)] - Quantitative Finance Lab
+1. **Musical Emotion Recognition Model:** [EmotioNet](https://github.com/jonasxmartins/EmotioNet) - APS360 Fundamentals of Deep Learning (demo)
+2. **Research Paper Pre-Evaluation Semi-Automation:** [EmotioNet](https://github.com/jonasxmartins/EmotioNet) - For Research at University of Waterloo
+3. **File Transfer System & Text Conferencing System:** [computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs) - ECE361 Computer Networks
+4. **Data Processing & Indicator Replication:** [trading-indicators](https://github.com/jonasxmartins/trading-indicators) - Quantitative Finance Lab
+5. **Geographical Information System for Kids:** [(demo)]([https://github.com/jonasxmartins/trading-indicators](https://docs.google.com/presentation/d/11R-VKNXlqT0NF3GsvMiWdCwxJel9RZkWwbI1gcevKnc/edit?usp=sharing)) - ECE297 Software Design and Communication
+6. **Spam Email Classification:** [spam-vs-ham](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
+7. **Bayesian Linear Regression:** [lin-reg-modelling](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
 
 **Programming Arsenal:**
 
-**[Language Symbol 1]** **[Language Symbol 2]** **[Language Symbol 3]** ... (Add symbols for all your programming languages)
+**[Language Symbol 1]** **[Language Symbol 2]** **[Language Symbol 3]**
 
 **Let's Connect!**  
 
-If you have a groundbreaking project in mind, want to discuss the ever-evolving world of tech, or simply grab a virtual cup of coffee (I'm always brewing new ideas!), feel free to reach out at jonas.martins@mail.utoronto.ca. ☕️
+If you have a groundbreaking project in mind, want to discuss the ever-evolving world of tech, or simply grab a virtual cup of coffee (I'm always brewing new ideas! _brew new_idea_), feel free to reach out at jonas.martins@mail.utoronto.ca. ☕️
 
 
 <!---
