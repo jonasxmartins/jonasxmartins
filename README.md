@@ -1,4 +1,4 @@
-<img src="https://placeimg.com/300/200/tech" alt="Circuit board with code snippets" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  
+<img src="[https://placeimg.com/300/200/tech](https://images.app.goo.gl/V55W3XLQZSARCqym6)" alt="Alan Turing Quote" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  
 
 ##  Jonas Martins - Building the Future, One Line of Code at a Time
 
