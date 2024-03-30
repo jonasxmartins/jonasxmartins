@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jonasxmartins
-- 👀 I’m interested in coding, Engineering, Science, Economics, cryptocurriencies, chess and football.
-- 🌱 I’m currently learning Python, HTML, Flask, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in algorithm design, mathematical and statistical modelling, data and signal processing, operating systems, and ML..
+- 📫 You can reach me at: jonas.martins@mail.utoronto.ca
 
 <!---
 jonasxmartins/jonasxmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
