@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @jonasxmartins! Feel free to check out my work!
+<img src="https://placeimg.com/300/200/tech" alt="Circuit board with code snippets" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  ##  Jonas Martins - Building the Future, One Line of Code at a Time
 
-- 👀 About me: I am a Computer Engineering student at U of T.
-  
-- 💡 My interests: algorithm design • statistical modelling • data / signal processing • machine learning
+Hi there!  I'm Jonas Martins (@jonasxmartins), a passionate Computer Engineering student at the University of Toronto, fueled by a thirst for knowledge and a love for crafting innovative solutions. 
 
-- 🖥️ Other experience: hardware programming • operating systems • computer networks
-  
-- 📫 You can reach me at: jonas.martins@mail.utoronto.ca
+**My Playground:**
+
+*  Algorithm Design: Turning complex problems into elegant solutions.
+*  Statistical Modelling: Unraveling the stories hidden within data.
+*  Data/Signal Processing: Making sense of the symphony of information.
+*  Machine Learning: Empowering machines to learn and adapt.
+
+**Beyond the Code:**
+
+* ️ Hardware Programming: Bridging the gap between the physical and digital worlds.
+*  Operating Systems: The maestro behind the scenes of every computer.
+* ️ Computer Networks: Weaving the fabric of interconnectedness.
+
+**Let's Connect!**
+
+Feel free to reach out to me at jonas.martins@mail.utoronto.ca if you have any projects in mind, want to discuss the exciting world of tech, or just grab a virtual coffee! ☕️ (I'm always brewing new ideas )
+
+**Looking for my latest adventures?**
+
+* Dive into my projects: [Link to your repositories] (Replace with the link to your repositories)
+* Follow my coding journey: [Link to your social media/portfolio] (Replace with the link to your social media/portfolio)
+
 
 <!---
 jonasxmartins/jonasxmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
