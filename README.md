@@ -2,7 +2,9 @@
 
 - 👀 About me: I am a Computer Engineering student at U of T.
   
-- My interests: algorithm design  mathematical and statistical modelling  data and signal processing  operating systems  machine learning
+- 💡 My interests: algorithm design • statistical modelling • data / signal processing • machine learning
+
+- 🖥️ Other experience: hardware programming • operating systems • computer networks
   
 - 📫 You can reach me at: jonas.martins@mail.utoronto.ca
 
