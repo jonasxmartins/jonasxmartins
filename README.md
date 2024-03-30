@@ -1,4 +1,4 @@
-<img src="[https://placeimg.com/300/200/tech](https://images.app.goo.gl/V55W3XLQZSARCqym6)" alt="Alan Turing Quote" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  
+![alan-turing](https://github.com/jonasxmartins/jonasxmartins/assets/83953412/33e52f24-5349-42dc-96c4-942cb6b0da1a)
 
 ##  Jonas Martins - Building the Future, One Line of Code at a Time
 
