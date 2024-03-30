@@ -1,38 +1,39 @@
 ![alan-turing](https://github.com/jonasxmartins/jonasxmartins/assets/83953412/33e52f24-5349-42dc-96c4-942cb6b0da1a)
 
-##  Jonas Martins - Building the Future, One Line of Code at a Time
+##  Jonas Martins - Building the Future, One *SegmentationFault* at a Time
 
 
-** Jonas Martins: Code Sorcerer & Architect of Innovation**  []
+Greetings!  I'm Jonas Martins (@jonasxmartins), a Computer Engineering student at the University of Toronto.  Here you will find my coding experiences and other stuff!  _Spoiler: I do not know how to center a div._
 
-Greetings, fellow tech enthusiasts!  I'm Jonas Martins (@jonasxmartins), a Computer Engineering student at the prestigious University of Toronto. My passion for code burns brighter than a supernova, and I'm constantly on a quest to build remarkable things. 
+**Experiences & Interests:**
 
-**My Digital Armory:**
+A glimpse into the tools I have wielded. These are the few I am most proud of:
 
-Here's a glimpse into the battle-tested tools I wield in the coding arena:
-
-*  **Algorithm Design:** 🪄 Turning tangled problems into elegant solutions with a touch of algorithmic magic.
-*  **Statistical Modelling:**  Unmasking the hidden stories within data – it's like deciphering the universe's secret code!
-*  **Data/Signal Processing:**  Making sense of the symphony of information, one signal at a time. 
-*  **Machine Learning:**  Empowering machines to learn and adapt, because the future is intelligent.
+*  **Algorithm Design:** 🪄 Constraint Satisfaction, Informed Search, Adversarial Search, Bayesian Networks
+*  **Statistical Modelling:**  Hypothesis Testing, Linear Regression
+*  **Data/Signal Processing:**  Audio Processing, Financial Data Processing, CSV Parsing 
+*  **Machine Learning:**  ANNs, CNNs for classification and regression
+*  **Hardware Programming:**  FPGAs with Verilog
+*  **Operating Systems:** ⚙️ C used for emulating several Linux features.
+*  **Computer Networks:**  Sockets, Wireshark Packet Sniffing, Analysis of protocols and IP layers. 
 
 **Beyond the Code:**
 
-My skillset transcends the digital realm:
+I am passionate about history, economics, and political science, and have written several essays:
 
-*  **Hardware Programming:**  Bridging the gap between the physical and digital worlds, one line of code at a time.
-*  **Operating Systems:** ⚙️ The silent maestro orchestrating every computer's performance.
-*  **Computer Networks:**  Weaving the intricate tapestry of interconnectedness that binds the digital world. 
-
-**My Code Odysseys:**
+*  **Institutional Roots of Apartheid in South Africa**
+*  **Realism vs Liberalism in International Relations**
+*  **On the Validity of Policy in Social Education**
+  
+**Coding Projects:**
 
 Embark on a journey through my coding adventures (click the links to join the quest!):
 
-1. **[Project 1 Name]:** [https://github.com/jonasxmartins/trading-indicators] ([Short description of Project 1])  -  This project is...
-2. **[Project 2 Name]:** [Link to Project 2] ([Short description of Project 2])  -  Here, I tackled the challenge of...
-3. **[Financial Indicators]:** [[Link to Project 3](https://github.com/jonasxmartins/trading-indicators)] - ([For the Quantitative Finance Lab])
+1. **[Musical Emotion Recognition Model]:** [[EmotioNet](https://github.com/jonasxmartins/EmotioNet)] - APS360 Fundamentals of Deep Learning
+2. **[File Transfer System & Text Conferencing System]:** [[computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs)] - ECE361 Computer Networks
+3. **[Data Processing & Indicator Replication]:** [[trading-indicators](https://github.com/jonasxmartins/trading-indicators)] - Quantitative Finance Lab
 
-**My Programming Arsenal:**
+**Programming Arsenal:**
 
 **[Language Symbol 1]** **[Language Symbol 2]** **[Language Symbol 3]** ... (Add symbols for all your programming languages)
 
