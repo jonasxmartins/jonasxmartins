@@ -1,4 +1,6 @@
-<img src="https://placeimg.com/300/200/tech" alt="Circuit board with code snippets" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  ##  Jonas Martins - Building the Future, One Line of Code at a Time
+<img src="https://placeimg.com/300/200/tech" alt="Circuit board with code snippets" style="display: block; margin-left: auto; margin-right: auto; width: 300px; border-radius: 8px;">  
+
+##  Jonas Martins - Building the Future, One Line of Code at a Time
 
 Hi there!  I'm Jonas Martins (@jonasxmartins), a passionate Computer Engineering student at the University of Toronto, fueled by a thirst for knowledge and a love for crafting innovative solutions. 
 
