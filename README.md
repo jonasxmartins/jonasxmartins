@@ -28,9 +28,9 @@ My skillset transcends the digital realm:
 
 Embark on a journey through my coding adventures (click the links to join the quest!):
 
-1. **[Project 1 Name]:** [Link to Project 1] ([Short description of Project 1])  -  This project is...
+1. **[Project 1 Name]:** [https://github.com/jonasxmartins/trading-indicators] ([Short description of Project 1])  -  This project is...
 2. **[Project 2 Name]:** [Link to Project 2] ([Short description of Project 2])  -  Here, I tackled the challenge of...
-3. **[Project 3 Name]:** [Link to Project 3] ([Short description of Project 3])  -  Get ready to be amazed by... (Add more projects as needed)
+3. **[Financial Indicators]:** [[Link to Project 3](https://github.com/jonasxmartins/trading-indicators)] - ([For the Quantitative Finance Lab])
 
 **My Programming Arsenal:**
 
