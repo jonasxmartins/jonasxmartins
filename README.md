@@ -3,7 +3,7 @@
 ##  Jonas Martins - Building the Future, One *SegmentationFault* at a Time
 
 
-Greetings!  I'm Jonas Martins (@jonasxmartins), a Computer Engineering student at the University of Toronto.  Here you will find my coding experiences and other stuff!  _Spoiler: I do not know how to center a div._
+Welcome!  I'm Jonas Martins (@jonasxmartins), a Computer Engineering student at the University of Toronto.  Here you will find my coding experiences and other stuff!  _Spoiler: I do not know how to center a div._
 
 **Experiences & Interests:**
 
@@ -23,19 +23,21 @@ I am passionate about history, economics, and political science, and have writte
 
 *  **Institutional Roots of Apartheid in South Africa**
 *  **Realism vs Liberalism in International Relations**
-*  **On the Validity of Policy in Social Education**
+*  **On the Role of Policy-Making in Social Education**
   
 **Coding Projects:**
 
 Embark on a journey through my coding adventures (click the links to join the quest!):
 
 1. **Musical Emotion Recognition Model:** [EmotioNet](https://github.com/jonasxmartins/EmotioNet) - APS360 Fundamentals of Deep Learning (demo)
-2. **Research Paper Pre-Evaluation Semi-Automation:** [EmotioNet](https://github.com/jonasxmartins/EmotioNet) - For Research at University of Waterloo
+2. **Research Paper Pre-Evaluation Semi-Automation:** [abstract-classifier](https://github.com/jonasxmartins/EmotioNet) - For Research at University of Waterloo
 3. **File Transfer System & Text Conferencing System:** [computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs) - ECE361 Computer Networks
 4. **Data Processing & Indicator Replication:** [trading-indicators](https://github.com/jonasxmartins/trading-indicators) - Quantitative Finance Lab
-5. **Geographical Information System for Kids:** [(demo)]([https://github.com/jonasxmartins/trading-indicators](https://docs.google.com/presentation/d/11R-VKNXlqT0NF3GsvMiWdCwxJel9RZkWwbI1gcevKnc/edit?usp=sharing)) - ECE297 Software Design and Communication
-6. **Spam Email Classification:** [spam-vs-ham](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
-7. **Bayesian Linear Regression:** [lin-reg-modelling](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
+5. **Geographical Information System for Kids:** [(demo)](https://docs.google.com/presentation/d/11R-VKNXlqT0NF3GsvMiWdCwxJel9RZkWwbI1gcevKnc/edit?usp=sharing) - ECE297 Software Design & Communication
+6. **Spam Email Classification:** [ece368-spam-vs-ham](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
+7. **Bayesian Linear Regression:** [ece368-lin-reg](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
+8. **Graph Search for Sokoban:** [csc384-sokoban](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
+9. **N-Queen & FunPuzz CSP:** [csc384-csp](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
 
 **Programming Arsenal:**
 
