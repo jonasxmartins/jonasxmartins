@@ -2,17 +2,17 @@
   
 - 👀 About me: I am a Computer Engineering student at U of T.
   
-  I’m interested in:
+		I’m interested in:
   
-    • algorithm design
+    	• algorithm design
   
-    • mathematical and statistical modelling
+    	• mathematical and statistical modelling
   
-    • data and signal processing
+    	• data and signal processing
 
-    • operating systems
+    	• operating systems
 
-    • Machine Learning
+    	• Machine Learning
   
 - 📫 You can reach me at: jonas.martins@mail.utoronto.ca
 
