@@ -39,10 +39,6 @@ Embark on a journey through my coding adventures (click the links to join the qu
 8. **Graph Search for Sokoban:** [csc384-sokoban](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
 9. **N-Queen & FunPuzz CSP:** [csc384-csp](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
 
-**Programming Arsenal:**
-
-**[Language Symbol 1]** **[Language Symbol 2]** **[Language Symbol 3]**
-
 **Let's Connect!**  
 
 If you have a groundbreaking project in mind, want to discuss the ever-evolving world of tech, or simply grab a virtual cup of coffee (I'm always brewing new ideas! _brew new_idea_), feel free to reach out at jonas.martins@mail.utoronto.ca. ☕️
