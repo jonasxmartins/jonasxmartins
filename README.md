@@ -4,7 +4,7 @@
 📚 Minors in Artificial Intelligence & Political Science  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jonasxmartins&style=flat-square&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasxmartins)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-lages-martins)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:jonas.martins@mail.utoronto.ca)  
 
 ---
