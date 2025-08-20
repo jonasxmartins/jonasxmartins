@@ -33,15 +33,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
----
-
-## 📈 GitHub Snapshot
-
-<!-- Activity -->
-![Stats](https://github-readme-stats.vercel.app/api?username=jonasxmartins&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&cache_seconds=3600)
-
-<!-- Languages (bytes-based; exclude noisy repos/languages) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasxmartins&layout=compact&langs_count=8&exclude_repo=computer-networks-labs,trading-indicators&hide=html,css&cache_seconds=3600)
 
 ---
 
