@@ -1,23 +1,52 @@
-![alan-turing](https://github.com/jonasxmartins/jonasxmartins/assets/83953412/33e52f24-5349-42dc-96c4-942cb6b0da1a)
+# 👋 Hey, I’m Jonas Martins  
 
-##  Jonas Martins
-Welcome!  I'm Jonas Martins (@jonasxmartins), a Computer Engineering student at the University of Toronto, minoring in AI and Political Science.
+🎓 Computer Engineering @ University of Toronto  
+📚 Minors in Artificial Intelligence & Political Science  
 
+![Profile Views](https://komarev.com/ghpvc/?username=jonasxmartins&style=flat-square&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasxmartins)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:jonas.martins@mail.utoronto.ca)  
 
+---
 
-**Projects**
+## 🚀 Featured Projects  
 
-1. **EmotioNet - Music Sentiment Analysis:** [EmotioNet](https://github.com/jonasxmartins/EmotioNet)
-2. **Research Paper Pre-Evaluation Semi-Automation:** [abstract-classifier](https://github.com/jonasxmartins/EmotioNet)
-3. **File Transfer System & Text Conferencing System:** [computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs) - ECE361 Computer Networks
-4. **Data Processing & Indicator Replication:** [trading-indicators](https://github.com/jonasxmartins/trading-indicators) - Quantitative Finance Lab
-5. **Geographical Information System for Kids:** [(demo)](https://docs.google.com/presentation/d/11R-VKNXlqT0NF3GsvMiWdCwxJel9RZkWwbI1gcevKnc/edit?usp=sharing) - ECE297 Software Design & Communication
-6. **Spam Email Classification:** [ece368-spam-vs-ham](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
-7. **Bayesian Linear Regression:** [ece368-lin-reg](https://github.com/jonasxmartins/EmotioNet) - ECE368 Probabilistic Reasoning
-8. **Graph Search for Sokoban:** [csc384-sokoban](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
-9. **N-Queen & FunPuzz CSP:** [csc384-csp](https://github.com/jonasxmartins/EmotioNet) - CSC384 Intro to Artificial Intelligence
+- 🎵 **[EmotioNet](https://github.com/jonasxmartins/EmotioNet)** — Music Sentiment Analysis (ML)  
+- 📄 **[abstract-classifier](https://github.com/jonasxmartins/EmotioNet)** — Research Paper Pre-Evaluation (UWaterloo)  
+- 🌐 **[computer-networks-labs](https://github.com/jonasxmartins/computer-networks-labs)** — File Transfer & Text Conferencing Systems  
+- 📊 **[trading-indicators](https://github.com/jonasxmartins/trading-indicators)** — Data Processing & Quantitative Finance  
+- 🗺 **[GIS for Kids](https://docs.google.com/presentation/d/11R-VKNXlqT0NF3GsvMiWdCwxJel9RZkWwbI1gcevKnc/edit?usp=sharing)** — Geographical Information System (Software Design)  
+- ✉️ **[ece368-spam-vs-ham](https://github.com/jonasxmartins/EmotioNet)** — Spam Email Classification  
+- 📐 **[ece368-lin-reg](https://github.com/jonasxmartins/EmotioNet)** — Bayesian Linear Regression  
+- 🎮 **[csc384-sokoban](https://github.com/jonasxmartins/EmotioNet)** — Graph Search for Sokoban  
+- ♟ **[csc384-csp](https://github.com/jonasxmartins/EmotioNet)** — N-Queen & FunPuzz CSP  
 
-**Contact**  
-jonas.martins@mail.utoronto.ca. ☕️
+---
 
-"_I propose to you the following question: can machines think?_" - Alan Turing
+## 🛠 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+## 📈 GitHub Analytics  
+
+![Jonas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasxmartins&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasxmartins&layout=compact&theme=radical)  
+
+---
+
+## 📬 Let’s Connect  
+
+📧 [jonas.martins@mail.utoronto.ca](mailto:jonas.martins@mail.utoronto.ca)  
+🌐 [LinkedIn](https://www.linkedin.com/in/jonasxmartins)  
+
+---
+
+> "_I propose to you the following question: can machines think?_" — Alan Turing
