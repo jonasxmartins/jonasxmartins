@@ -35,10 +35,13 @@
 
 ---
 
-## 📈 GitHub Analytics  
+## 📈 GitHub Snapshot
 
-![Jonas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasxmartins&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasxmartins&layout=compact&theme=radical)  
+<!-- Activity -->
+![Stats](https://github-readme-stats.vercel.app/api?username=jonasxmartins&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&cache_seconds=3600)
+
+<!-- Languages (bytes-based; exclude noisy repos/languages) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasxmartins&layout=compact&langs_count=8&exclude_repo=computer-networks-labs,trading-indicators&hide=html,css&cache_seconds=3600)
 
 ---
 
