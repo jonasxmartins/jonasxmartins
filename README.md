@@ -9,19 +9,19 @@ I am an AI Systems Engineer focused on building the infrastructure that allows m
 
 ## 🚀 Featured Engineering Projects
 
-### **[Veridocx.ai](https://veridocx.ai)** | *Co-founder & CTO*
+### **[Veridocx.ai](https://veridocx.ai)** | *Co-founder & CTO* [Private Org - 7 repos]
 An AI-native regulatory intelligence platform automating FDA 510(k) compliance. We are bridging the gap between complex medical device regulations and automated verification systems.
 
-### **Rabyt.ai** | *AI Spreadsheet IDE*
+### **Rabyt.ai** | *AI Spreadsheet IDE* [Private Org - 2 repos]
 Developing a desktop "Cursor for spreadsheets" that functions as a high-performance IDE for data manipulation.
 * **Tech:** Python, LLMs, Custom OCR. (We want to introduce Rust at some point!)
 * **Impact:** Optimized for complex PDF table extraction and automated spreadsheet logic.
 
-### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent*
+### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent* [[Repo](https://github.com/jonasxmartins/dockmaster-prototype)]
 A LangChain architecture for service review intelligence - it analyses a customer request and generates optimized service orders with upsell opportunities.
 Proactive mode tracks subscribed vessels and sends out offers when pre-emptive opportunities for boat service are identified.
 
-### **AlphaCore** | *Quantitative Data Pipeline*
+### **AlphaCore - U of T QuantLab** | *Quantitative Data Pipeline* [[Repo](https://github.com/jonasxmartins/trading-indicators)]
 A high-throughput engineering pipeline designed for financial research and data integrity.
 * **Scale:** Processed **5+ GB** of SAS trading data.
 * **Scope:** Replicated **35 WRDS trading indicators**, optimizing for processing speed and accuracy.
