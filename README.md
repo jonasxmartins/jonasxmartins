@@ -1,4 +1,4 @@
-# 🤖 Jonas Martins
+# Jonas Martins
 **Computer Engineering @ University of Toronto | AI Systems Engineer | Co-founder & CTO**
 
 > “I propose to you the following question: can machines think?” — Alan Turing
@@ -7,7 +7,7 @@ I am an AI Systems Engineer focused on building the infrastructure that allows m
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### **[Veridocx.ai](https://veridocx.ai)** | *Co-founder & CTO* [Private Org - 7 repos]
 An AI-native regulatory intelligence platform automating FDA 510(k) compliance. We are bridging the gap between complex medical device regulations and automated verification systems.
