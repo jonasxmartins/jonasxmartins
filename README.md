@@ -14,7 +14,7 @@ An AI-native regulatory intelligence platform automating FDA 510(k) compliance. 
 
 ### **Rabyt.ai** | *AI Spreadsheet IDE*
 Developing a desktop "Cursor for spreadsheets" that functions as a high-performance IDE for data manipulation.
-* **Tech:** Python, LLMs, Custom OCR.
+* **Tech:** Python, LLMs, Custom OCR. (We want to introduce Rust at some point!)
 * **Impact:** Optimized for complex PDF table extraction and automated spreadsheet logic.
 
 ### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent*
