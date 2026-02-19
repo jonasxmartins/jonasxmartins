@@ -26,7 +26,7 @@ A high-throughput engineering pipeline designed for financial research and data 
 * **Scale:** Processed **5+ GB** of SAS trading data.
 * **Scope:** Replicated **35 WRDS trading indicators**, optimizing for processing speed and accuracy.
 
-### **EmotioNet** | *Audio Deep Learning*
+### **EmotioNet** | *Audio Deep Learning* [[Repo](https://github.com/jonasxmartins/EmotioNet)]
 A Deep CNN architecture designed for nuanced audio sentiment classification.
 * **Performance:** Achieved **89.3% accuracy** in real-time sentiment detection.
 
