@@ -17,6 +17,10 @@ Developing a desktop "Cursor for spreadsheets" that functions as a high-performa
 * **Tech:** Python, LLMs, Custom OCR.
 * **Impact:** Optimized for complex PDF table extraction and automated spreadsheet logic.
 
+### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent*
+A LangChain architecture for service review intelligence - it analyses a customer request and generates optimized service orders with upsell opportunities.
+Proactive mode tracks subscribed vessels and sends out offers when pre-emptive opportunities for boat service are identified.
+
 ### **AlphaCore** | *Quantitative Data Pipeline*
 A high-throughput engineering pipeline designed for financial research and data integrity.
 * **Scale:** Processed **5+ GB** of SAS trading data.
@@ -25,10 +29,6 @@ A high-throughput engineering pipeline designed for financial research and data 
 ### **EmotioNet** | *Audio Deep Learning*
 A Deep CNN architecture designed for nuanced audio sentiment classification.
 * **Performance:** Achieved **89.3% accuracy** in real-time sentiment detection.
-
-### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent*
-A LangChain architecture for service review intelligence - it analyses a customer request and generates optimized service orders with upsell opportunities.
-Proactive mode tracks subscribed vessels and sends out offers when pre-emptive opportunities for boat service are identified.
 
 ---
 
