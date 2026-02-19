@@ -26,6 +26,10 @@ A high-throughput engineering pipeline designed for financial research and data 
 A Deep CNN architecture designed for nuanced audio sentiment classification.
 * **Performance:** Achieved **89.3% accuracy** in real-time sentiment detection.
 
+### **[DockMaster AI](https://dockmaster-prototype.vercel.app/)** | *Boatyard Service Management AI Agent*
+A LangChain architecture for service review intelligence - it analyses a customer request and generates optimized service orders with upsell opportunities.
+Proactive mode tracks subscribed vessels and sends out offers when pre-emptive opportunities for boat service are identified.
+
 ---
 
 ## 🛠️ The Toolkit
